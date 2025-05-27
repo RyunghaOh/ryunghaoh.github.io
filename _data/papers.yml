@@ -1,10 +1,9 @@
-- title: "Spatial Sorting of Workers and Firms (JMP)"
+- title: "Spatial Sorting of Workers and Firms"
   paper: "https://ryunghaoh.github.io/files/Oh2024.pdf"
   type: "WP"
 
 
 - title: "Spatial Firm Sorting and Local Monopsony Power"
-  detail: Conditionally Accepted, <span class="semi-bold">Review of Economic Studies</span>
   paper: "https://ryunghaoh.github.io/files/FirmSorting.pdf"
   authors:
     - name: "Ilse Lindenlaub"
@@ -31,7 +30,7 @@
   type: "WP"
 
 
-- title: "Imperfect Screening and Unemployment in Frictional Labor Markets"
+- title: "Assortative Matching through Partially Directed Search"
   authors:
     - name: "Jaeeun Seo"
       url: "https://jaeeun-seo.github.io/"  
