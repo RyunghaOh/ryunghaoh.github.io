@@ -1,10 +1,24 @@
+- title: "Spatial Sorting of Workers and Firms (JMP)"
+  paper: "https://ryunghaoh.github.io/files/Oh2024.pdf"
+  type: "WP"
+
+
+- title: "Spatial Firm Sorting and Local Monopsony Power"
+  detail: Conditionally Accepted, <span class="semi-bold">Review of Economic Studies</span>
+  paper: "https://ryunghaoh.github.io/files/FirmSorting.pdf"
+  authors:
+    - name: "Ilse Lindenlaub"
+      url: "https://sites.google.com/site/ilselindenlaub/"
+    - name: "Michael Peters"
+      url: "https://mipeters.weebly.com/"
+  type: "WP"
+
 - title: "Sectoral Shocks and Labor Market Dynamics: A Sufficient Statistics Approach"
-  date: November 2024
   detail: Conditionally Accepted, <span class="semi-bold">Review of Economic Studies</span>
   paper: "https://jaeeun-seo.github.io/files/Seo_JMP.pdf"
   authors:
-    - name: "Ryungha Oh"
-      url: "https://sites.google.com/view/ryunghaoh"
+    - name: "Jaeeun Seo"
+      url: "https://jaeeun-seo.github.io/"
   type: "WP"
 
 
@@ -12,22 +26,13 @@
   detail: Awarded Best Student Paper Prize (2022) by the Urban Economics Association
   paper: "https://ryunghaoh.github.io/files/Services.pdf"
   authors:
-    - name: "Ryungha Oh"
-      url: "https://sites.google.com/view/ryunghaoh"  
+    - name: "Jaeeun Seo"
+      url: "https://jaeeun-seo.github.io/"  
   type: "WP"
-
-
-- title: "Persistent Noise, Feedback, and Endogenous Optimism: A Rational Theory of Overextrapolation"
-  paper: "https://jaeeun-seo.github.io/files/Seo2023.pdf"
-  type: "WP"
-
-
-- title: "Employment Dynamics and Sectoral Misallocation of Labor"
-  type: "WIP"
 
 
 - title: "Imperfect Screening and Unemployment in Frictional Labor Markets"
   authors:
-    - name: "Ryungha Oh"
-      url: "https://sites.google.com/view/ryunghaoh" 
+    - name: "Jaeeun Seo"
+      url: "https://jaeeun-seo.github.io/"  
   type: "WIP"

@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: Jaeeun Seo
-email: jaeeun.seo@northwestern.edu
+title: Ryungha Oh
+email: ryungha.oh@northwestern.edu
 affiliation: Northwestern University
 url: "https://ryunghaoh.github.io"
 baseurl: ""        #
-description: 'I am a Postdoctoral Scholar in the Department of Economics at Northwestern University. My research interests are in international trade, macroeconomics, and urban economics. I received my Ph.D. in Economics from MIT in 2024.'
-mydescription: 'Welcome to my website! I am a Postdoctoral Scholar in the Department of Economics at Northwestern University. My research interests are in <span class="semi-bold">international trade</span>, <span class="semi-bold">macroeconomics</span>, and <span class="semi-bold">urban economics</span>. I received my Ph.D. in Economics from MIT in 2024.'
-CV_file: "https://jaeeun-seo.github.io/files/Seo_CV.pdf"
+description: 'I am a macroeconomist with interests in labor and spatial economics. I am currently a Postdoctoral Scholar at Northwestern University. In July 2025, I will join the Becker Friedman Institute at the University of Chicago as a Saieh Family Fellow. In July 2026, I will join the University of Chicago Booth School of Business as an Assistant Professor. I received my Ph.D. in Economics in 2024 from Yale University.'
+mydescription: 'I am a <span class="semi-bold">macroeconomist</span> with interests in <span class="semi-bold">labor</span> and <span class="semi-bold">spatial economics</span>. I am currently a Postdoctoral Scholar at Northwestern University. In July 2025, I will join the Becker Friedman Institute at the University of Chicago as a Saieh Family Fellow. In July 2026, I will join the University of Chicago Booth School of Business as an Assistant Professor. I received my Ph.D. in Economics in 2024 from Yale University.'
+CV_file: "https://ryunghaoh.github.io/files/RyunghaOh_CV.pdf"
 
 
 # Build settings
