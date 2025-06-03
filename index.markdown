@@ -26,8 +26,8 @@ My CV is available <a href="{{ site.CV_file }}" target="_blank">here</a>.
           {%- endif -%}
           {%- unless forloop.last %} and {% endunless -%}
         {%- endfor -%}
-        </span>
-      {%- endif %}<br>
+        </span><br>
+      {%- endif %}
       {% if p.detail %}
         <span class="detail">
           {{ p.detail }}
@@ -73,8 +73,8 @@ My CV is available <a href="{{ site.CV_file }}" target="_blank">here</a>.
           {%- endif -%}
           {%- unless forloop.last %} and {% endunless -%}
         {%- endfor -%}
-   	</span>
-      {%- endif %}<br>
+   	</span><br>
+      {%- endif %}
       {% if p.detail %}
         <span class="detail">
           {{ p.detail }}

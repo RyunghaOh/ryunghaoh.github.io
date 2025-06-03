@@ -1,10 +1,12 @@
 - title: "Spatial Sorting of Workers and Firms"
   paper: "https://ryunghaoh.github.io/files/Oh2024.pdf"
+  abstract: "This paper develops a theory of two-sided spatial sorting in which heterogeneous workers and firms choose locations and match randomly within local labor markets. Spatial disparities arise endogenously across ex ante homogeneous locations. Productive workers and firms colocate in cities due to complementarities in production, and cities with higher-quality search pools become densely populated. Although positive assortative matching improves allocative efficiency, concentration in cities is inefficiently high. Since workers and firms embody productivity, relocating them can mitigate congestion without reducing output. Comparing two-sided sorting to models that abstract from either worker or firm sorting reveals distinct policy implications."
   type: "WP"
 
 
 - title: "Spatial Firm Sorting and Local Monopsony Power"
   paper: "https://ryunghaoh.github.io/files/FirmSorting.pdf"
+  abstract: "Using administrative data from Germany, we document that high-wage locations have substantially lower labor shares and higher wage dispersion. We show that a parsimonious model, in which firm monopsony power stems from search frictions in local labor markets, can explain these facts as long as “superstar” firms sort into productive locations. This positive sorting, which emerges as the unique equilibrium if firm and location productivity are sufficient complements or labor market frictions are sufficiently large, steepens the local wage ladder in productive locations and leads to not only higher wages, but also greater wage inequality. At the same time, positive firm sorting reduces local labor shares in prosperous places because more productive firms have more monopsony power. Our estimated model indicates that firm sorting can rationalize the lower local labor shares in regions with endogenously higher wages and can account for 40% of their increased wage dispersion. In spatial firm sorting, we thus highlight a new source of disparities in local labor market outcomes."
   authors:
     - name: "Ilse Lindenlaub"
       url: "https://sites.google.com/site/ilselindenlaub/"
