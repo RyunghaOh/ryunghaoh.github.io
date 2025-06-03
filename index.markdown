@@ -42,8 +42,16 @@ My CV is available <a href="{{ site.CV_file }}" target="_blank">here</a>.
         {%- endif -%}
         {%- if p.online_appendix -%}
           <span class="delimeter">•</span><a href="{{ p.online_appendix }}" class="file" target="_blank">[online appendix]</a>
+	{%- endif -%}
+	{%- if p.abstract -%}
+	    <span class="delimeter">•</span><a href="javascript:void(0);" class="file abstract-toggle">[abstract&nbsp;&nbsp;<span class="chevron-icon"><i class="fas fa-chevron-down"></i></span>]</a>
         {% endif %}
       </span>
+      {% if p.abstract %}
+        <div class="abstract-content">
+          <p>{{ p.abstract }}</p>
+        </div>
+      {% endif %}
     </div>
   {% endfor %}
 </section>
@@ -79,7 +87,15 @@ My CV is available <a href="{{ site.CV_file }}" target="_blank">here</a>.
         {%- if p.code -%}
           <span class="delimeter">•</span><a href="{{ p.code }}" class="file" target="_blank">[code]</a>
         {%- endif -%}
+	{%- if p.abstract -%}
+	    <span class="delimeter">•</span><a href="javascript:void(0);" class="file abstract-toggle">[abstract&nbsp;&nbsp;<span class="chevron-icon"><i class="fas fa-chevron-down"></i></span>]</a>
+        {% endif %}
       </span>
+      {% if p.abstract %}
+        <div class="abstract-content">
+          <p>{{ p.abstract }}</p>
+        </div>
+      {% endif %}
     </div>
   {% endfor %}
 </section>
