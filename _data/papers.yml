@@ -6,7 +6,7 @@
 
 - title: "Spatial Firm Sorting and Local Monopsony Power"
   paper: "https://ryunghaoh.github.io/files/FirmSorting.pdf"
-  appendix: "https://ryunghaoh.github.io/files/FirmSorting_OnlineAppendix.pdf"
+  online_appendix: "https://ryunghaoh.github.io/files/FirmSorting_OnlineAppendix.pdf"
   abstract: "Using administrative data from Germany, we document that high-wage locations have substantially lower labor shares and higher wage dispersion. We show that a parsimonious model, in which firm monopsony power stems from search frictions in local labor markets, can explain these facts as long as “superstar” firms sort into productive locations. This positive sorting, which emerges as the unique equilibrium if firm and location productivity are sufficient complements or labor market frictions are sufficiently large, steepens the local wage ladder in productive locations and leads to not only higher wages, but also greater wage inequality. At the same time, positive firm sorting reduces local labor shares in prosperous places because more productive firms have more monopsony power. Our estimated model indicates that firm sorting can rationalize the lower local labor shares in regions with endogenously higher wages and can account for 40% of their increased wage dispersion. In spatial firm sorting, we thus highlight a new source of disparities in local labor market outcomes."
   authors:
     - name: "Ilse Lindenlaub"
